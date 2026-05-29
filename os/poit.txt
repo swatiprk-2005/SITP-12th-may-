@@ -1,0 +1,1 @@
+hluuuuuuu!File handling in Python means creating, reading, writing, appending, and managing files using built-in functions like open().
